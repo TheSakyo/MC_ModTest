@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "thesakyo_mod",
+  "version": "${version}",
+  "name": "ModTest",
+  "description": "Mod de Test",
+  "authors": [ "TheSakyo" ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/thesakyo_mod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [ "fr.thesakyo.mod.ModTest" ]
+  },
+  "mixins": [ "fr.TheSakyo.Mod.mixins.json" ],
+  "depends": {
+    "fabricloader": ">=0.14.10",
+    "fabric": "*",
+    "minecraft": "1.19"
+  }
+}

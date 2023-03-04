@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "fr.thesakyo.mod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [],
+  "client": [ "ModMixins" ],
+  "injectors": { "defaultRequire": 1 }
+}

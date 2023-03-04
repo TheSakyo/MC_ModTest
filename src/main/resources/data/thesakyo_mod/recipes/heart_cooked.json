@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "thesakyo_mod:heart_cooked"
+  },
+  "result": "thesakyo_mod:heart",
+  "experience": 0.2,
+  "cookingTime": 220
+}
